@@ -187,12 +187,12 @@ Additionally, the analysis focuses primarily on descriptive statistics and explo
 
 ## 📁 Repository Structure
 
-```text
 instacart-customer-behavior-analysis/
 │
 ├── README.md
 │
 ├── data/
+│   ├── README.md
 │   ├── instacart_orders.csv
 │   ├── products.csv
 │   ├── order_products.csv
@@ -200,4 +200,5 @@ instacart-customer-behavior-analysis/
 │   └── departments.csv
 │
 └── notebook/
+    ├── README.md
     └── instacart_customer_behavior_analysis.ipynb
